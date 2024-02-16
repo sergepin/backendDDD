@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nh8wMDIZsSdLu1Noci/IewdkC9tm2hWgHU+qw3fiYtpjTW0Wo/4j8GeCyLUM3uBlfxQAq6bAgdmhIukV2cEg2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\dev\\easyBooking\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

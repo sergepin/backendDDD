@@ -1,0 +1,4 @@
+C:\Users\user\Documents\dev\easyBooking\obj\Debug\net8.0\easyBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\dev\easyBooking\obj\Debug\net8.0\easyBooking.AssemblyInfoInputs.cache
+C:\Users\user\Documents\dev\easyBooking\obj\Debug\net8.0\easyBooking.AssemblyInfo.cs
+C:\Users\user\Documents\dev\easyBooking\obj\Debug\net8.0\easyBooking.csproj.CoreCompileInputs.cache
